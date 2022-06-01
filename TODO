@@ -1,1 +1,7 @@
 ./doc/TODO
+
+Implementar funções para o CMD
+
+pymodbus -m <port/ip/serial> <addr>
+
+<function code> [<data1>...<datan>] -r <repeat/times>
